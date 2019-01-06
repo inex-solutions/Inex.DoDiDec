@@ -3,7 +3,7 @@ using System.Linq;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 
-namespace dodidec
+namespace Inex.DoDiDec
 {
     public static class DecoratorExtensions
     {

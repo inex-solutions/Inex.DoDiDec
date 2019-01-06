@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace dodidec
+namespace Inex.DoDiDec
 {
     public static class ServiceDescriptorExtensions
     {

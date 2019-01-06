@@ -1,9 +1,9 @@
 ﻿using System;
-using dodidec.Tests.TestClasses;
+using Inex.DoDiDec.Tests.TestClasses;
 using Microsoft.Extensions.DependencyInjection;
 using Xunit;
 
-namespace dodidec.Tests
+namespace Inex.DoDiDec.Tests
 {
     public static class ServiceCollectionExtensions
     {

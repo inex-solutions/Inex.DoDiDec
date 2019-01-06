@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dodidec", "dodidec\dodidec.csproj", "{95DEB206-6488-41AD-86B0-3CC830F6D67F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inex.DoDiDec", "Inex.DoDiDec\Inex.DoDiDec.csproj", "{95DEB206-6488-41AD-86B0-3CC830F6D67F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dodidec.Tests", "dodidec.Tests\dodidec.Tests.csproj", "{D4BF9A24-1E24-4E95-ACFF-8933074CB3CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inex.DoDiDec.Tests", "Inex.DoDiDec.Tests\Inex.DoDiDec.Tests.csproj", "{D4BF9A24-1E24-4E95-ACFF-8933074CB3CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

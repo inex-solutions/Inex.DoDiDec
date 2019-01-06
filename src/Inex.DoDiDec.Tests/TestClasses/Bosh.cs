@@ -1,10 +1,10 @@
-﻿namespace dodidec.Tests.TestClasses
+﻿namespace Inex.DoDiDec.Tests.TestClasses
 {
-    public class Bash : IMessage
+    public class Bosh : IMessage
     {
         private readonly IMessage _innerItem;
 
-        public Bash(IMessage innerItem)
+        public Bosh(IMessage innerItem)
         {
             _innerItem = innerItem;
         }

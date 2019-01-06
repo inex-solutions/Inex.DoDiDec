@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dodidec
+namespace Inex.DoDiDec
 {
     public class DecoratorSetupException : InvalidOperationException
     {

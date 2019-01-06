@@ -1,4 +1,4 @@
-﻿namespace dodidec.Tests.TestClasses
+﻿namespace Inex.DoDiDec.Tests.TestClasses
 {
     public interface IMessage
     {

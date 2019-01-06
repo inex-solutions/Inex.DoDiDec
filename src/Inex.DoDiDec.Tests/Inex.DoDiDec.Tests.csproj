@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\dodidec\dodidec.csproj" />
+    <ProjectReference Include="..\Inex.DoDiDec\Inex.DoDiDec.csproj" />
   </ItemGroup>
 
 </Project>
